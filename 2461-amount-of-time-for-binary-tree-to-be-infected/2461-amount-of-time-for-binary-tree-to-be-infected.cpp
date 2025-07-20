@@ -11,52 +11,62 @@
  */
 class Solution {
 public:
-    void convert(TreeNode* root, unordered_map<int, vector<int>> &adj)
-    {
-        if(!root) return ;
-
-        if(root->left)
-        {
-            adj[root->val].push_back(root->left->val);
-            adj[root->left->val].push_back(root->val);
-        }
-        if(root->right)
-        {
-            adj[root->val].push_back(root->right->val);
-            adj[root->right->val].push_back(root->val);
-        }
-
-        convert(root->left,adj);
-        convert(root->right,adj);
-
+    int time( TreeNode * target,unordered_map<TreeNode *,TreeNode *> &mpp){
+        unordered_map<TreeNode *,bool>visited;
+        queue<TreeNode *>q;
+        q.push(target);
+        visited[target]=true;
+        int maxi=0;
+        while(!q.empty()){
+            int fl=0;
+            int size=q.size();
+            for(int i=0;i<size;i++){
+                TreeNode * node=q.front();
+                q.pop();
+                if(node->left && !visited[node->left]){
+                    fl=1;
+                    visited[node->left]=true;
+                    q.push(node->left);
+                }if(node->right && !visited[node->right]){
+                    fl=1;
+                    visited[node->right]=true;
+                    q.push(node->right);
+                }
+                auto it = mpp.find(node);
+                if(it != mpp.end() && it->second && !visited[it->second]) {
+                    fl=1;
+                    visited[mpp[node]]=true;
+                    q.push(mpp[node]);
+                }
+            }if(fl) maxi++;
+        }return maxi;
+    }           
+    TreeNode * bfs(TreeNode * root,unordered_map<TreeNode *,TreeNode *> &mpp,int start){
+        queue<TreeNode *>q;
+        q.push(root);
+        TreeNode * k;
+        while(!q.empty()){
+            int size=q.size();
+            for(int i=0;i<size;i++){
+                TreeNode * node=q.front();
+                q.pop();
+                if(node->val==start){ 
+                    k=node;
+                }
+                if(node->left){
+                    mpp[node->left]=node;
+                    q.push(node->left);
+                }if(node->right){
+                    mpp[node->right]=node;
+                    q.push(node->right);
+                }
+            }   
+        }return k;
     }
-    int amountOfTime(TreeNode* root, int strt) {
-        if(root==NULL) return 0;
-        unordered_map<int, vector<int>> adj;
-        unordered_map<int, int> vis;
-        convert(root,adj);
-        queue<int> q;
-        q.push(strt);
-        int ans=-1;
-        while(!q.empty())
-        {
-            int n=q.size();
-            ans++;
-            for(int i=0;i<n;i++)
-            {
-                
-                int node=q.front();
-            q.pop();
-            vis[node]++;
-            for(auto it:adj[node])
-            {
-                if(vis.find(it)==vis.end()) q.push(it);
-            }
-            }
-        }
-        return ans;
-
+    int amountOfTime(TreeNode* root, int start) {
+        unordered_map<TreeNode *,TreeNode *>mpp;
+        TreeNode * target=bfs(root,mpp,start);
+        int maxi=time(target,mpp);
+        return maxi;
     }
 };
-
-auto init = atexit([]() { ofstream("display_runtime.txt") << "0"; });
