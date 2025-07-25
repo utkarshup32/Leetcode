@@ -9,25 +9,56 @@
  */
 class Codec {
 public:
+
     // Encodes a tree to a single string.
     string serialize(TreeNode* root) {
-        ostringstream oss;
-        oss << reinterpret_cast<uintptr_t>(root);
-        return oss.str();
+        if (!root) return "";
+        string s = "";
+        queue<TreeNode*> q;
+        q.push(root);
+        while (!q.empty()) {
+            TreeNode* curNode = q.front();
+            q.pop();
+            if (curNode == nullptr) {
+                s += "#,";
+            } else {
+                s += to_string(curNode->val) + ",";
+                q.push(curNode->left);
+                q.push(curNode->right);
+            }
+        }
+        return s;
     }
 
     // Decodes your encoded data to tree.
-    TreeNode* deserialize(string s) {
-        istringstream iss(s);
-        uintptr_t address;
-        iss >> address;
-        return reinterpret_cast<TreeNode*>(address);
+    TreeNode* deserialize(string data) {
+        if (data.empty()) return nullptr;
+        stringstream s(data);
+        string str;
+        getline(s, str, ',');
+        TreeNode* root = new TreeNode(stoi(str));
+        queue<TreeNode*> q;
+        q.push(root);
+        while (!q.empty()) {
+            TreeNode* node = q.front();
+            q.pop();
+            getline(s, str, ',');
+            if (str != "#") {
+                TreeNode* leftNode = new TreeNode(stoi(str));
+                node->left = leftNode;
+                q.push(leftNode);
+            }
+            getline(s, str, ',');
+            if (str != "#") {
+                TreeNode* rightNode = new TreeNode(stoi(str));
+                node->right = rightNode;
+                q.push(rightNode);
+            }
+        }
+        return root;
     }
 };
 
 // Your Codec object will be instantiated and called as such:
-// Codec* ser = new Codec();
-// Codec* deser = new Codec();
-// string tree = ser->serialize(root);
-// TreeNode* ans = deser->deserialize(tree);
-// return ans;
+// Codec ser, deser;
+// TreeNode* ans = deser.deserialize(ser.serialize(root));
