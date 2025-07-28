@@ -24,6 +24,7 @@ I will put leetcode problems and solutions here
 | [0222-count-complete-tree-nodes](https://github.com/utkarshup32/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/utkarshup32/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/utkarshup32/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -34,6 +35,7 @@ I will put leetcode problems and solutions here
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/utkarshup32/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/utkarshup32/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/utkarshup32/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -96,9 +98,19 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/utkarshup32/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/utkarshup32/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 ## Stack
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0341-flatten-nested-list-iterator](https://github.com/utkarshup32/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/utkarshup32/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/utkarshup32/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
