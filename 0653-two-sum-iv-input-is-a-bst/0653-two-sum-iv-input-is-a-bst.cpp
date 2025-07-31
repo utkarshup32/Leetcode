@@ -10,17 +10,16 @@
  * };
  */
 class Solution {
-    
+    unordered_set<int> set;
 public:
-    bool help(TreeNode* root1, int k,unordered_set<int> &set){
+    bool help(TreeNode* root1, int k){
         
         if(!root1) return false;
         if(set.count(k-root1->val)) return true;
         set.insert(root1->val);
-        return help(root1->left,k,set) || help(root1->right,k,set);
+        return help(root1->left,k) || help(root1->right,k);
     }
     bool findTarget(TreeNode* root, int k) {
-        unordered_set<int> set;
-        return help(root,k,set);
+        return help(root,k);
     }
 };
