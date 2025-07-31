@@ -40,6 +40,7 @@ I will put leetcode problems and solutions here
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/utkarshup32/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Depth-First Search
@@ -56,6 +57,7 @@ I will put leetcode problems and solutions here
 | [0449-serialize-and-deserialize-bst](https://github.com/utkarshup32/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshup32/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/utkarshup32/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
@@ -81,6 +83,7 @@ I will put leetcode problems and solutions here
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/utkarshup32/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -97,6 +100,7 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/utkarshup32/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -112,6 +116,7 @@ I will put leetcode problems and solutions here
 | [0783-search-in-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Hash Table
 |  |
