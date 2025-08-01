@@ -55,6 +55,7 @@ I will put leetcode problems and solutions here
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0341-flatten-nested-list-iterator](https://github.com/utkarshup32/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/utkarshup32/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0547-number-of-provinces](https://github.com/utkarshup32/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshup32/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
@@ -92,6 +93,7 @@ I will put leetcode problems and solutions here
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/utkarshup32/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0547-number-of-provinces](https://github.com/utkarshup32/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshup32/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
@@ -178,4 +180,12 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshup32/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/utkarshup32/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/utkarshup32/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
