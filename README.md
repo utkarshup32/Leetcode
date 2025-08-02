@@ -128,6 +128,7 @@ I will put leetcode problems and solutions here
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshup32/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/utkarshup32/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2689-rearranging-fruits](https://github.com/utkarshup32/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -140,6 +141,7 @@ I will put leetcode problems and solutions here
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [2689-rearranging-fruits](https://github.com/utkarshup32/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -190,4 +192,12 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/utkarshup32/Leetcode/tree/master/0547-number-of-provinces) |
+## Greedy
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/utkarshup32/Leetcode/tree/master/2689-rearranging-fruits) |
+## Sort
+|  |
+| ------- |
+| [2689-rearranging-fruits](https://github.com/utkarshup32/Leetcode/tree/master/2689-rearranging-fruits) |
 <!---LeetCode Topics End-->
