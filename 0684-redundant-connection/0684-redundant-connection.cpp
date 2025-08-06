@@ -22,7 +22,7 @@ public:
         while (!q.empty()) {
             int a = q.front();
             q.pop();
-            for (int &b : adj[a]) {
+            for (int b : adj[a]) {
                 if (b == v) return true;
                 if (!visited[b]) {
                     q.push(b);
