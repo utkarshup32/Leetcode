@@ -50,6 +50,7 @@ I will put leetcode problems and solutions here
 | [0098-validate-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/utkarshup32/Leetcode/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/utkarshup32/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -92,6 +93,7 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0207-course-schedule](https://github.com/utkarshup32/Leetcode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/utkarshup32/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0547-number-of-provinces](https://github.com/utkarshup32/Leetcode/tree/master/0547-number-of-provinces) |
@@ -202,6 +204,7 @@ I will put leetcode problems and solutions here
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/utkarshup32/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/utkarshup32/Leetcode/tree/master/0547-number-of-provinces) |
 ## Greedy
 |  |
@@ -233,4 +236,8 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [3791-fruits-into-baskets-iii](https://github.com/utkarshup32/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/utkarshup32/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
