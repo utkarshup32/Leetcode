@@ -97,6 +97,7 @@ I will put leetcode problems and solutions here
 | [0207-course-schedule](https://github.com/utkarshup32/Leetcode/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/utkarshup32/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/utkarshup32/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshup32/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -110,6 +111,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/utkarshup32/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/utkarshup32/Leetcode/tree/master/0118-pascals-triangle) |
+| [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -148,6 +150,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/utkarshup32/Leetcode/tree/master/0118-pascals-triangle) |
+| [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/utkarshup32/Leetcode/tree/master/0733-flood-fill) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/utkarshup32/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -221,6 +224,7 @@ I will put leetcode problems and solutions here
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/utkarshup32/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/utkarshup32/Leetcode/tree/master/1036-rotting-oranges) |
 ## Sliding Window
