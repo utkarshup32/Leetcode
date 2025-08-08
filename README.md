@@ -12,6 +12,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarshup32/Leetcode/tree/master/0002-add-two-numbers) |
 | [0096-unique-binary-search-trees](https://github.com/utkarshup32/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0826-soup-servings](https://github.com/utkarshup32/Leetcode/tree/master/0826-soup-servings) |
 ## Recursion
 |  |
 | ------- |
@@ -112,6 +113,7 @@ I will put leetcode problems and solutions here
 | [0096-unique-binary-search-trees](https://github.com/utkarshup32/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/utkarshup32/Leetcode/tree/master/0118-pascals-triangle) |
 | [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
+| [0826-soup-servings](https://github.com/utkarshup32/Leetcode/tree/master/0826-soup-servings) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -248,4 +250,8 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/utkarshup32/Leetcode/tree/master/0207-course-schedule) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/utkarshup32/Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
