@@ -65,6 +65,7 @@ I will put leetcode problems and solutions here
 | [0662-maximum-width-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/utkarshup32/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/utkarshup32/Leetcode/tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/utkarshup32/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/utkarshup32/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -110,6 +111,7 @@ I will put leetcode problems and solutions here
 | [0733-flood-fill](https://github.com/utkarshup32/Leetcode/tree/master/0733-flood-fill) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/utkarshup32/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/utkarshup32/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/utkarshup32/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Dynamic Programming
 |  |
@@ -164,6 +166,7 @@ I will put leetcode problems and solutions here
 | [0940-fruit-into-baskets](https://github.com/utkarshup32/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1036-rotting-oranges](https://github.com/utkarshup32/Leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1073-number-of-enclaves](https://github.com/utkarshup32/Leetcode/tree/master/1073-number-of-enclaves) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/utkarshup32/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2689-rearranging-fruits](https://github.com/utkarshup32/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -216,6 +219,7 @@ I will put leetcode problems and solutions here
 | [0130-surrounded-regions](https://github.com/utkarshup32/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/utkarshup32/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/utkarshup32/Leetcode/tree/master/0684-redundant-connection) |
+| [1073-number-of-enclaves](https://github.com/utkarshup32/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
 | ------- |
@@ -237,6 +241,7 @@ I will put leetcode problems and solutions here
 | [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/utkarshup32/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/utkarshup32/Leetcode/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/utkarshup32/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Sliding Window
 |  |
 | ------- |
