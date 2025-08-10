@@ -66,6 +66,7 @@ I will put leetcode problems and solutions here
 | [0662-maximum-width-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/utkarshup32/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/utkarshup32/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/utkarshup32/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/utkarshup32/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/utkarshup32/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -110,6 +111,7 @@ I will put leetcode problems and solutions here
 | [0662-maximum-width-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/utkarshup32/Leetcode/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/utkarshup32/Leetcode/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/utkarshup32/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0998-check-completeness-of-a-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0998-check-completeness-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/utkarshup32/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/utkarshup32/Leetcode/tree/master/1073-number-of-enclaves) |
@@ -221,6 +223,7 @@ I will put leetcode problems and solutions here
 | [0130-surrounded-regions](https://github.com/utkarshup32/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/utkarshup32/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/utkarshup32/Leetcode/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/utkarshup32/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/utkarshup32/Leetcode/tree/master/1073-number-of-enclaves) |
 ## Graph
 |  |
@@ -228,6 +231,7 @@ I will put leetcode problems and solutions here
 | [0207-course-schedule](https://github.com/utkarshup32/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/utkarshup32/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/utkarshup32/Leetcode/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/utkarshup32/Leetcode/tree/master/0801-is-graph-bipartite) |
 ## Greedy
 |  |
 | ------- |
