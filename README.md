@@ -14,6 +14,7 @@ I will put leetcode problems and solutions here
 | [0096-unique-binary-search-trees](https://github.com/utkarshup32/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/utkarshup32/Leetcode/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/utkarshup32/Leetcode/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/utkarshup32/Leetcode/tree/master/0900-reordered-power-of-2) |
 ## Recursion
 |  |
 | ------- |
@@ -145,6 +146,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshup32/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0900-reordered-power-of-2](https://github.com/utkarshup32/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/utkarshup32/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/utkarshup32/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -267,4 +269,16 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/utkarshup32/Leetcode/tree/master/0826-soup-servings) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/utkarshup32/Leetcode/tree/master/0900-reordered-power-of-2) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/utkarshup32/Leetcode/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/utkarshup32/Leetcode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
