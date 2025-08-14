@@ -12,7 +12,7 @@ public:
                     
                     q.push({{i,j},0});
                     vis[i][j]=1;
-                }else vis[i][j]=0;
+                }
             }
         }
         int drow[]={-1,0,1,0};
