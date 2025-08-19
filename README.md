@@ -19,6 +19,7 @@ I will put leetcode problems and solutions here
 | [0826-soup-servings](https://github.com/utkarshup32/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/utkarshup32/Leetcode/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/utkarshup32/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/utkarshup32/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/utkarshup32/Leetcode/tree/master/1448-maximum-69-number) |
 ## Recursion
 |  |
@@ -267,6 +268,7 @@ I will put leetcode problems and solutions here
 ## Greedy
 |  |
 | ------- |
+| [1303-minimum-moves-to-reach-target-score](https://github.com/utkarshup32/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/utkarshup32/Leetcode/tree/master/1448-maximum-69-number) |
 | [2689-rearranging-fruits](https://github.com/utkarshup32/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Sort
