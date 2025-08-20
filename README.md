@@ -143,6 +143,7 @@ I will put leetcode problems and solutions here
 | [0803-cheapest-flights-within-k-stops](https://github.com/utkarshup32/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/utkarshup32/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/utkarshup32/Leetcode/tree/master/0867-new-21-game) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utkarshup32/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/utkarshup32/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -200,6 +201,7 @@ I will put leetcode problems and solutions here
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/utkarshup32/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/utkarshup32/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/utkarshup32/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/utkarshup32/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -290,6 +292,7 @@ I will put leetcode problems and solutions here
 | [1036-rotting-oranges](https://github.com/utkarshup32/Leetcode/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/utkarshup32/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/utkarshup32/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Sliding Window
 |  |
