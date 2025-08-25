@@ -83,6 +83,7 @@ I will put leetcode problems and solutions here
 | [0854-making-a-large-island](https://github.com/utkarshup32/Leetcode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/utkarshup32/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/utkarshup32/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1300-critical-connections-in-a-network](https://github.com/utkarshup32/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/utkarshup32/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -300,6 +301,7 @@ I will put leetcode problems and solutions here
 | [0803-cheapest-flights-within-k-stops](https://github.com/utkarshup32/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/utkarshup32/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/utkarshup32/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1300-critical-connections-in-a-network](https://github.com/utkarshup32/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/utkarshup32/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utkarshup32/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/utkarshup32/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -389,4 +391,8 @@ I will put leetcode problems and solutions here
 | [0803-cheapest-flights-within-k-stops](https://github.com/utkarshup32/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utkarshup32/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/utkarshup32/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/utkarshup32/Leetcode/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
