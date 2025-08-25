@@ -12,6 +12,7 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarshup32/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/utkarshup32/Leetcode/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/utkarshup32/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/utkarshup32/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/utkarshup32/Leetcode/tree/master/0326-power-of-three) |
@@ -28,6 +29,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarshup32/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/utkarshup32/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/utkarshup32/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/utkarshup32/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/utkarshup32/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/utkarshup32/Leetcode/tree/master/0342-power-of-four) |
