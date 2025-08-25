@@ -207,6 +207,7 @@ I will put leetcode problems and solutions here
 | [0118-pascals-triangle](https://github.com/utkarshup32/Leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/utkarshup32/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/utkarshup32/Leetcode/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/utkarshup32/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
 | [0679-24-game](https://github.com/utkarshup32/Leetcode/tree/master/0679-24-game) |
 | [0721-accounts-merge](https://github.com/utkarshup32/Leetcode/tree/master/0721-accounts-merge) |
@@ -320,6 +321,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0130-surrounded-regions](https://github.com/utkarshup32/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/utkarshup32/Leetcode/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/utkarshup32/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/utkarshup32/Leetcode/tree/master/0733-flood-fill) |
 | [0854-making-a-large-island](https://github.com/utkarshup32/Leetcode/tree/master/0854-making-a-large-island) |
@@ -395,4 +397,8 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/utkarshup32/Leetcode/tree/master/1300-critical-connections-in-a-network) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/utkarshup32/Leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
