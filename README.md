@@ -14,6 +14,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarshup32/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/utkarshup32/Leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/utkarshup32/Leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/utkarshup32/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/utkarshup32/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/utkarshup32/Leetcode/tree/master/0326-power-of-three) |
@@ -203,6 +204,7 @@ I will put leetcode problems and solutions here
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/utkarshup32/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/utkarshup32/Leetcode/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/utkarshup32/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/utkarshup32/Leetcode/tree/master/0231-power-of-two) |
@@ -247,6 +249,7 @@ I will put leetcode problems and solutions here
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/utkarshup32/Leetcode/tree/master/0067-add-binary) |
 | [0126-word-ladder-ii](https://github.com/utkarshup32/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/utkarshup32/Leetcode/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -411,5 +414,6 @@ I will put leetcode problems and solutions here
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/utkarshup32/Leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/utkarshup32/Leetcode/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
