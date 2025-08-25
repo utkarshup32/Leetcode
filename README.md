@@ -6,6 +6,7 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarshup32/Leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/utkarshup32/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Math
 |  |
@@ -26,6 +27,7 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarshup32/Leetcode/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/utkarshup32/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/utkarshup32/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/utkarshup32/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/utkarshup32/Leetcode/tree/master/0342-power-of-four) |
