@@ -213,6 +213,7 @@ I will put leetcode problems and solutions here
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/utkarshup32/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/utkarshup32/Leetcode/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/utkarshup32/Leetcode/tree/master/0118-pascals-triangle) |
@@ -397,6 +398,7 @@ I will put leetcode problems and solutions here
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/utkarshup32/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/utkarshup32/Leetcode/tree/master/0078-subsets) |
 | [0126-word-ladder-ii](https://github.com/utkarshup32/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0679-24-game](https://github.com/utkarshup32/Leetcode/tree/master/0679-24-game) |
