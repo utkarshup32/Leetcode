@@ -167,6 +167,7 @@ I will put leetcode problems and solutions here
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/utkarshup32/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/utkarshup32/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/utkarshup32/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -240,6 +241,7 @@ I will put leetcode problems and solutions here
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/utkarshup32/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/utkarshup32/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/utkarshup32/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/utkarshup32/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3791-fruits-into-baskets-iii](https://github.com/utkarshup32/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
 |  |
@@ -347,6 +349,7 @@ I will put leetcode problems and solutions here
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/utkarshup32/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/utkarshup32/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/utkarshup32/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sliding Window
 |  |
 | ------- |
@@ -417,4 +420,8 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0067-add-binary](https://github.com/utkarshup32/Leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/utkarshup32/Leetcode/tree/master/0498-diagonal-traverse) |
+## Memoization
+|  |
+| ------- |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/utkarshup32/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->
