@@ -216,6 +216,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0039-combination-sum](https://github.com/utkarshup32/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/utkarshup32/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/utkarshup32/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/utkarshup32/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/utkarshup32/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -406,6 +407,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0039-combination-sum](https://github.com/utkarshup32/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/utkarshup32/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/utkarshup32/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/utkarshup32/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/utkarshup32/Leetcode/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/utkarshup32/Leetcode/tree/master/0126-word-ladder-ii) |
