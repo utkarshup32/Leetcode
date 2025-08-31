@@ -191,6 +191,7 @@ I will put leetcode problems and solutions here
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/utkarshup32/Leetcode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/utkarshup32/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/utkarshup32/Leetcode/tree/master/0127-word-ladder) |
@@ -214,6 +215,7 @@ I will put leetcode problems and solutions here
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/utkarshup32/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/utkarshup32/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/utkarshup32/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/utkarshup32/Leetcode/tree/master/0046-permutations) |
@@ -341,6 +343,7 @@ I will put leetcode problems and solutions here
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/utkarshup32/Leetcode/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/utkarshup32/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/utkarshup32/Leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/utkarshup32/Leetcode/tree/master/0498-diagonal-traverse) |
