@@ -13,6 +13,7 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarshup32/Leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/utkarshup32/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/utkarshup32/Leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/utkarshup32/Leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/utkarshup32/Leetcode/tree/master/0096-unique-binary-search-trees) |
