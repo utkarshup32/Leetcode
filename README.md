@@ -230,6 +230,7 @@ I will put leetcode problems and solutions here
 | [0118-pascals-triangle](https://github.com/utkarshup32/Leetcode/tree/master/0118-pascals-triangle) |
 | [0130-surrounded-regions](https://github.com/utkarshup32/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/utkarshup32/Leetcode/tree/master/0200-number-of-islands) |
+| [0216-combination-sum-iii](https://github.com/utkarshup32/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0498-diagonal-traverse](https://github.com/utkarshup32/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
 | [0679-24-game](https://github.com/utkarshup32/Leetcode/tree/master/0679-24-game) |
@@ -424,6 +425,7 @@ I will put leetcode problems and solutions here
 | [0090-subsets-ii](https://github.com/utkarshup32/Leetcode/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/utkarshup32/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/utkarshup32/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/utkarshup32/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0679-24-game](https://github.com/utkarshup32/Leetcode/tree/master/0679-24-game) |
 ## Heap (Priority Queue)
 |  |
