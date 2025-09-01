@@ -15,6 +15,7 @@ I will put leetcode problems and solutions here
 | [0002-add-two-numbers](https://github.com/utkarshup32/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/utkarshup32/Leetcode/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/utkarshup32/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/utkarshup32/Leetcode/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/utkarshup32/Leetcode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/utkarshup32/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/utkarshup32/Leetcode/tree/master/0231-power-of-two) |
@@ -33,6 +34,7 @@ I will put leetcode problems and solutions here
 | [0002-add-two-numbers](https://github.com/utkarshup32/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/utkarshup32/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/utkarshup32/Leetcode/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/utkarshup32/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/utkarshup32/Leetcode/tree/master/0143-reorder-list) |
 | [0231-power-of-two](https://github.com/utkarshup32/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/utkarshup32/Leetcode/tree/master/0326-power-of-three) |
