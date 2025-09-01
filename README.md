@@ -247,6 +247,7 @@ I will put leetcode problems and solutions here
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshup32/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1917-maximum-average-pass-ratio](https://github.com/utkarshup32/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/utkarshup32/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/utkarshup32/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -342,6 +343,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/utkarshup32/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/utkarshup32/Leetcode/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/utkarshup32/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/utkarshup32/Leetcode/tree/master/2689-rearranging-fruits) |
 ## Sort
 |  |
@@ -432,6 +434,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/utkarshup32/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1917-maximum-average-pass-ratio](https://github.com/utkarshup32/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Shortest Path
 |  |
 | ------- |
