@@ -28,6 +28,7 @@ I will put leetcode problems and solutions here
 | [1303-minimum-moves-to-reach-target-score](https://github.com/utkarshup32/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/utkarshup32/Leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/utkarshup32/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/utkarshup32/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -256,6 +257,7 @@ I will put leetcode problems and solutions here
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2689-rearranging-fruits](https://github.com/utkarshup32/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/utkarshup32/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/utkarshup32/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/utkarshup32/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/utkarshup32/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/utkarshup32/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -409,6 +411,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0721-accounts-merge](https://github.com/utkarshup32/Leetcode/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/utkarshup32/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/utkarshup32/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/utkarshup32/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -418,6 +421,7 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/utkarshup32/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/utkarshup32/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/utkarshup32/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Backtracking
 |  |
@@ -459,4 +463,8 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/utkarshup32/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/utkarshup32/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
