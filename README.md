@@ -177,6 +177,7 @@ I will put leetcode problems and solutions here
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshup32/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/utkarshup32/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/utkarshup32/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/utkarshup32/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/utkarshup32/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Search Tree
@@ -313,6 +314,7 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/utkarshup32/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/utkarshup32/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Iterator
 |  |
 | ------- |
@@ -475,6 +477,7 @@ I will put leetcode problems and solutions here
 | [0067-add-binary](https://github.com/utkarshup32/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/utkarshup32/Leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/utkarshup32/Leetcode/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/utkarshup32/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Memoization
 |  |
 | ------- |
