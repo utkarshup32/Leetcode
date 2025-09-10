@@ -496,4 +496,8 @@ I will put leetcode problems and solutions here
 | ------- |
 | [1203-print-in-order](https://github.com/utkarshup32/Leetcode/tree/master/1203-print-in-order) |
 | [1340-the-dining-philosophers](https://github.com/utkarshup32/Leetcode/tree/master/1340-the-dining-philosophers) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/utkarshup32/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
