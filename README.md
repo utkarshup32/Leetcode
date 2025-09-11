@@ -296,6 +296,7 @@ I will put leetcode problems and solutions here
 | [0449-serialize-and-deserialize-bst](https://github.com/utkarshup32/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0721-accounts-merge](https://github.com/utkarshup32/Leetcode/tree/master/0721-accounts-merge) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/utkarshup32/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/utkarshup32/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Design
 |  |
 | ------- |
@@ -428,6 +429,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0721-accounts-merge](https://github.com/utkarshup32/Leetcode/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/utkarshup32/Leetcode/tree/master/0900-reordered-power-of-2) |
+| [2887-sort-vowels-in-a-string](https://github.com/utkarshup32/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/utkarshup32/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/utkarshup32/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/utkarshup32/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
