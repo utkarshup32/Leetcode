@@ -173,6 +173,7 @@ I will put leetcode problems and solutions here
 | [0096-unique-binary-search-trees](https://github.com/utkarshup32/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/utkarshup32/Leetcode/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/utkarshup32/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0403-frog-jump](https://github.com/utkarshup32/Leetcode/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/utkarshup32/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/utkarshup32/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -257,6 +258,7 @@ I will put leetcode problems and solutions here
 | [0130-surrounded-regions](https://github.com/utkarshup32/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/utkarshup32/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/utkarshup32/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0403-frog-jump](https://github.com/utkarshup32/Leetcode/tree/master/0403-frog-jump) |
 | [0498-diagonal-traverse](https://github.com/utkarshup32/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
 | [0679-24-game](https://github.com/utkarshup32/Leetcode/tree/master/0679-24-game) |
