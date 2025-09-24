@@ -19,6 +19,7 @@ I will put leetcode problems and solutions here
 | [0067-add-binary](https://github.com/utkarshup32/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/utkarshup32/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/utkarshup32/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0166-fraction-to-recurring-decimal](https://github.com/utkarshup32/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/utkarshup32/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/utkarshup32/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/utkarshup32/Leetcode/tree/master/0342-power-of-four) |
@@ -221,6 +222,7 @@ I will put leetcode problems and solutions here
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/utkarshup32/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/utkarshup32/Leetcode/tree/master/0127-word-ladder) |
+| [0166-fraction-to-recurring-decimal](https://github.com/utkarshup32/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshup32/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/utkarshup32/Leetcode/tree/master/0721-accounts-merge) |
 | [0900-reordered-power-of-2](https://github.com/utkarshup32/Leetcode/tree/master/0900-reordered-power-of-2) |
@@ -324,6 +326,7 @@ I will put leetcode problems and solutions here
 | [0127-word-ladder](https://github.com/utkarshup32/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/utkarshup32/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/utkarshup32/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/utkarshup32/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/utkarshup32/Leetcode/tree/master/0412-fizz-buzz) |
 | [0449-serialize-and-deserialize-bst](https://github.com/utkarshup32/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
