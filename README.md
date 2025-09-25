@@ -173,6 +173,7 @@ I will put leetcode problems and solutions here
 | [0070-climbing-stairs](https://github.com/utkarshup32/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/utkarshup32/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/utkarshup32/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/utkarshup32/Leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/utkarshup32/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/utkarshup32/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/utkarshup32/Leetcode/tree/master/0213-house-robber-ii) |
@@ -265,6 +266,7 @@ I will put leetcode problems and solutions here
 | [0090-subsets-ii](https://github.com/utkarshup32/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/utkarshup32/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/utkarshup32/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/utkarshup32/Leetcode/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/utkarshup32/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/utkarshup32/Leetcode/tree/master/0200-number-of-islands) |
