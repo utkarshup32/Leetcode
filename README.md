@@ -270,6 +270,7 @@ I will put leetcode problems and solutions here
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/utkarshup32/Leetcode/tree/master/0011-container-with-most-water) |
 | [0036-valid-sudoku](https://github.com/utkarshup32/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/utkarshup32/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/utkarshup32/Leetcode/tree/master/0039-combination-sum) |
@@ -406,6 +407,7 @@ I will put leetcode problems and solutions here
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/utkarshup32/Leetcode/tree/master/0011-container-with-most-water) |
 | [0143-reorder-list](https://github.com/utkarshup32/Leetcode/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/utkarshup32/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/utkarshup32/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -441,6 +443,7 @@ I will put leetcode problems and solutions here
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/utkarshup32/Leetcode/tree/master/0011-container-with-most-water) |
 | [0611-valid-triangle-number](https://github.com/utkarshup32/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/utkarshup32/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/utkarshup32/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
