@@ -203,6 +203,7 @@ I will put leetcode problems and solutions here
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshup32/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/utkarshup32/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/utkarshup32/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/utkarshup32/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/utkarshup32/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/utkarshup32/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -224,6 +225,7 @@ I will put leetcode problems and solutions here
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/utkarshup32/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/utkarshup32/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3791-fruits-into-baskets-iii](https://github.com/utkarshup32/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -265,6 +267,7 @@ I will put leetcode problems and solutions here
 | [0222-count-complete-tree-nodes](https://github.com/utkarshup32/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/utkarshup32/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/utkarshup32/Leetcode/tree/master/0342-power-of-four) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/utkarshup32/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/utkarshup32/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/utkarshup32/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Array
@@ -319,6 +322,7 @@ I will put leetcode problems and solutions here
 | [1834-minimum-number-of-people-to-teach](https://github.com/utkarshup32/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/utkarshup32/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/utkarshup32/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/utkarshup32/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/utkarshup32/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/utkarshup32/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/utkarshup32/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -412,6 +416,7 @@ I will put leetcode problems and solutions here
 | [0165-compare-version-numbers](https://github.com/utkarshup32/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0611-valid-triangle-number](https://github.com/utkarshup32/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshup32/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/utkarshup32/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Union Find
 |  |
 | ------- |
@@ -500,6 +505,7 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [2023-design-movie-rental-system](https://github.com/utkarshup32/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/utkarshup32/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2429-design-a-food-rating-system](https://github.com/utkarshup32/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/utkarshup32/Leetcode/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/utkarshup32/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -626,4 +632,8 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0062-unique-paths](https://github.com/utkarshup32/Leetcode/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/utkarshup32/Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+## Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/utkarshup32/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
