@@ -229,6 +229,7 @@ I will put leetcode problems and solutions here
 | [0794-swim-in-rising-water](https://github.com/utkarshup32/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1612-avoid-flood-in-the-city](https://github.com/utkarshup32/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/utkarshup32/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/utkarshup32/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -253,6 +254,7 @@ I will put leetcode problems and solutions here
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/utkarshup32/Leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1006-vowel-spellchecker](https://github.com/utkarshup32/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/utkarshup32/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1612-avoid-flood-in-the-city](https://github.com/utkarshup32/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/utkarshup32/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/utkarshup32/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/utkarshup32/Leetcode/tree/master/2429-design-a-food-rating-system) |
@@ -324,6 +326,7 @@ I will put leetcode problems and solutions here
 | [1402-count-square-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/utkarshup32/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshup32/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/utkarshup32/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/utkarshup32/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -461,6 +464,7 @@ I will put leetcode problems and solutions here
 | [1018-largest-perimeter-triangle](https://github.com/utkarshup32/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/utkarshup32/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/utkarshup32/Leetcode/tree/master/1448-maximum-69-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/utkarshup32/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/utkarshup32/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/utkarshup32/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/utkarshup32/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -577,6 +581,7 @@ I will put leetcode problems and solutions here
 | [0407-trapping-rain-water-ii](https://github.com/utkarshup32/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/utkarshup32/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/utkarshup32/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1612-avoid-flood-in-the-city](https://github.com/utkarshup32/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1917-maximum-average-pass-ratio](https://github.com/utkarshup32/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/utkarshup32/Leetcode/tree/master/2023-design-movie-rental-system) |
