@@ -195,6 +195,7 @@ I will put leetcode problems and solutions here
 | [0322-coin-change](https://github.com/utkarshup32/Leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/utkarshup32/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/utkarshup32/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/utkarshup32/Leetcode/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/utkarshup32/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/utkarshup32/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -308,6 +309,7 @@ I will put leetcode problems and solutions here
 | [0416-partition-equal-subset-sum](https://github.com/utkarshup32/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/utkarshup32/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/utkarshup32/Leetcode/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/utkarshup32/Leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/utkarshup32/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/utkarshup32/Leetcode/tree/master/0611-valid-triangle-number) |
@@ -585,6 +587,7 @@ I will put leetcode problems and solutions here
 | [0126-word-ladder-ii](https://github.com/utkarshup32/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/utkarshup32/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/utkarshup32/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0494-target-sum](https://github.com/utkarshup32/Leetcode/tree/master/0494-target-sum) |
 | [0679-24-game](https://github.com/utkarshup32/Leetcode/tree/master/0679-24-game) |
 ## Heap (Priority Queue)
 |  |
