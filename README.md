@@ -214,6 +214,7 @@ I will put leetcode problems and solutions here
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/utkarshup32/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/utkarshup32/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/utkarshup32/Leetcode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshup32/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/utkarshup32/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Search Tree
 |  |
@@ -239,6 +240,7 @@ I will put leetcode problems and solutions here
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/utkarshup32/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/utkarshup32/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshup32/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3791-fruits-into-baskets-iii](https://github.com/utkarshup32/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/utkarshup32/Leetcode/tree/master/3827-implement-router) |
 ## Hash Table
@@ -266,6 +268,7 @@ I will put leetcode problems and solutions here
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/utkarshup32/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2689-rearranging-fruits](https://github.com/utkarshup32/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/utkarshup32/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshup32/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3678-design-task-manager](https://github.com/utkarshup32/Leetcode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/utkarshup32/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/utkarshup32/Leetcode/tree/master/3827-implement-router) |
@@ -354,6 +357,7 @@ I will put leetcode problems and solutions here
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/utkarshup32/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/utkarshup32/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/utkarshup32/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshup32/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/utkarshup32/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/utkarshup32/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/utkarshup32/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -440,6 +444,7 @@ I will put leetcode problems and solutions here
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshup32/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/utkarshup32/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/utkarshup32/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshup32/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Union Find
 |  |
 | ------- |
@@ -562,12 +567,14 @@ I will put leetcode problems and solutions here
 | [2887-sort-vowels-in-a-string](https://github.com/utkarshup32/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/utkarshup32/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/utkarshup32/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshup32/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/utkarshup32/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/utkarshup32/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/utkarshup32/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshup32/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/utkarshup32/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Enumeration
 |  |
