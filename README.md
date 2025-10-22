@@ -211,6 +211,7 @@ I will put leetcode problems and solutions here
 | [0967-minimum-falling-path-sum](https://github.com/utkarshup32/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/utkarshup32/Leetcode/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/utkarshup32/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1170-shortest-common-supersequence](https://github.com/utkarshup32/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/utkarshup32/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/utkarshup32/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -414,6 +415,7 @@ I will put leetcode problems and solutions here
 | [0583-delete-operation-for-two-strings](https://github.com/utkarshup32/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/utkarshup32/Leetcode/tree/master/0721-accounts-merge) |
 | [1006-vowel-spellchecker](https://github.com/utkarshup32/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1170-shortest-common-supersequence](https://github.com/utkarshup32/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/utkarshup32/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/utkarshup32/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/utkarshup32/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
