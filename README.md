@@ -54,6 +54,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0002-add-two-numbers](https://github.com/utkarshup32/Leetcode/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/utkarshup32/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/utkarshup32/Leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/utkarshup32/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/utkarshup32/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/utkarshup32/Leetcode/tree/master/0143-reorder-list) |
@@ -187,6 +188,7 @@ I will put leetcode problems and solutions here
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/utkarshup32/Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/utkarshup32/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/utkarshup32/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/utkarshup32/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -405,6 +407,7 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/utkarshup32/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0044-wildcard-matching](https://github.com/utkarshup32/Leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/utkarshup32/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/utkarshup32/Leetcode/tree/master/0072-edit-distance) |
 | [0126-word-ladder-ii](https://github.com/utkarshup32/Leetcode/tree/master/0126-word-ladder-ii) |
@@ -516,6 +519,7 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/utkarshup32/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/utkarshup32/Leetcode/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/utkarshup32/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/utkarshup32/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/utkarshup32/Leetcode/tree/master/1018-largest-perimeter-triangle) |
