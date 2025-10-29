@@ -216,6 +216,7 @@ I will put leetcode problems and solutions here
 | [0518-coin-change-ii](https://github.com/utkarshup32/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/utkarshup32/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/utkarshup32/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/utkarshup32/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/utkarshup32/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0826-soup-servings](https://github.com/utkarshup32/Leetcode/tree/master/0826-soup-servings) |
@@ -356,6 +357,7 @@ I will put leetcode problems and solutions here
 | [0542-01-matrix](https://github.com/utkarshup32/Leetcode/tree/master/0542-01-matrix) |
 | [0611-valid-triangle-number](https://github.com/utkarshup32/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/utkarshup32/Leetcode/tree/master/0679-24-game) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/utkarshup32/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/utkarshup32/Leetcode/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/utkarshup32/Leetcode/tree/master/0733-flood-fill) |
 | [0747-min-cost-climbing-stairs](https://github.com/utkarshup32/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -543,6 +545,7 @@ I will put leetcode problems and solutions here
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/utkarshup32/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/utkarshup32/Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/utkarshup32/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/utkarshup32/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1018-largest-perimeter-triangle](https://github.com/utkarshup32/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/utkarshup32/Leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1448-maximum-69-number](https://github.com/utkarshup32/Leetcode/tree/master/1448-maximum-69-number) |
