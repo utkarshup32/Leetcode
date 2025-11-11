@@ -216,6 +216,7 @@ I will put leetcode problems and solutions here
 | [0322-coin-change](https://github.com/utkarshup32/Leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/utkarshup32/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/utkarshup32/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/utkarshup32/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/utkarshup32/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/utkarshup32/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/utkarshup32/Leetcode/tree/master/0518-coin-change-ii) |
@@ -361,6 +362,7 @@ I will put leetcode problems and solutions here
 | [0416-partition-equal-subset-sum](https://github.com/utkarshup32/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/utkarshup32/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/utkarshup32/Leetcode/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/utkarshup32/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/utkarshup32/Leetcode/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/utkarshup32/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/utkarshup32/Leetcode/tree/master/0518-coin-change-ii) |
@@ -454,6 +456,7 @@ I will put leetcode problems and solutions here
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0412-fizz-buzz](https://github.com/utkarshup32/Leetcode/tree/master/0412-fizz-buzz) |
 | [0449-serialize-and-deserialize-bst](https://github.com/utkarshup32/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0474-ones-and-zeroes](https://github.com/utkarshup32/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/utkarshup32/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/utkarshup32/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/utkarshup32/Leetcode/tree/master/0721-accounts-merge) |
