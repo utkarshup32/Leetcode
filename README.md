@@ -327,6 +327,7 @@ I will put leetcode problems and solutions here
 | [0222-count-complete-tree-nodes](https://github.com/utkarshup32/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/utkarshup32/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/utkarshup32/Leetcode/tree/master/0342-power-of-four) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/utkarshup32/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/utkarshup32/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/utkarshup32/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/utkarshup32/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -388,6 +389,7 @@ I will put leetcode problems and solutions here
 | [0967-minimum-falling-path-sum](https://github.com/utkarshup32/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/utkarshup32/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/utkarshup32/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/utkarshup32/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1036-rotting-oranges](https://github.com/utkarshup32/Leetcode/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/utkarshup32/Leetcode/tree/master/1073-number-of-enclaves) |
