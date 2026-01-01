@@ -18,6 +18,7 @@ I will put leetcode problems and solutions here
 | [0050-powx-n](https://github.com/utkarshup32/Leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/utkarshup32/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/utkarshup32/Leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/utkarshup32/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/utkarshup32/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/utkarshup32/Leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/utkarshup32/Leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -363,6 +364,7 @@ I will put leetcode problems and solutions here
 | [0051-n-queens](https://github.com/utkarshup32/Leetcode/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/utkarshup32/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/utkarshup32/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/utkarshup32/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/utkarshup32/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/utkarshup32/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
