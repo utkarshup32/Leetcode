@@ -214,6 +214,7 @@ I will put leetcode problems and solutions here
 | [0064-minimum-path-sum](https://github.com/utkarshup32/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/utkarshup32/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/utkarshup32/Leetcode/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/utkarshup32/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/utkarshup32/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/utkarshup32/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/utkarshup32/Leetcode/tree/master/0120-triangle) |
@@ -368,6 +369,7 @@ I will put leetcode problems and solutions here
 | [0064-minimum-path-sum](https://github.com/utkarshup32/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/utkarshup32/Leetcode/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/utkarshup32/Leetcode/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/utkarshup32/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/utkarshup32/Leetcode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/utkarshup32/Leetcode/tree/master/0118-pascals-triangle) |
@@ -541,6 +543,7 @@ I will put leetcode problems and solutions here
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/utkarshup32/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/utkarshup32/Leetcode/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/utkarshup32/Leetcode/tree/master/0173-binary-search-tree-iterator) |
@@ -565,6 +568,7 @@ I will put leetcode problems and solutions here
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/utkarshup32/Leetcode/tree/master/0085-maximal-rectangle) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/utkarshup32/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -646,6 +650,7 @@ I will put leetcode problems and solutions here
 | [0037-sudoku-solver](https://github.com/utkarshup32/Leetcode/tree/master/0037-sudoku-solver) |
 | [0063-unique-paths-ii](https://github.com/utkarshup32/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/utkarshup32/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/utkarshup32/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/utkarshup32/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/utkarshup32/Leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/utkarshup32/Leetcode/tree/master/0407-trapping-rain-water-ii) |
