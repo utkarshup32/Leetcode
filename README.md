@@ -465,6 +465,7 @@ I will put leetcode problems and solutions here
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/utkarshup32/Leetcode/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/utkarshup32/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/utkarshup32/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/utkarshup32/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/utkarshup32/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/utkarshup32/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/utkarshup32/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -768,6 +769,7 @@ I will put leetcode problems and solutions here
 | [2402-meeting-rooms-iii](https://github.com/utkarshup32/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2887-sort-vowels-in-a-string](https://github.com/utkarshup32/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/utkarshup32/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/utkarshup32/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/utkarshup32/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/utkarshup32/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshup32/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -789,6 +791,7 @@ I will put leetcode problems and solutions here
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/utkarshup32/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/utkarshup32/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/utkarshup32/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/utkarshup32/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/utkarshup32/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/utkarshup32/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/utkarshup32/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
