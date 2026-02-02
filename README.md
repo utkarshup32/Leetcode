@@ -331,6 +331,7 @@ I will put leetcode problems and solutions here
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/utkarshup32/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/utkarshup32/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/utkarshup32/Leetcode/tree/master/2689-rearranging-fruits) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/utkarshup32/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/utkarshup32/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/utkarshup32/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshup32/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -466,6 +467,7 @@ I will put leetcode problems and solutions here
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/utkarshup32/Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/utkarshup32/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/utkarshup32/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/utkarshup32/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/utkarshup32/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/utkarshup32/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/utkarshup32/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -708,6 +710,7 @@ I will put leetcode problems and solutions here
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshup32/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/utkarshup32/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/utkarshup32/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/utkarshup32/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/utkarshup32/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/utkarshup32/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/utkarshup32/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
@@ -825,6 +828,7 @@ I will put leetcode problems and solutions here
 | [2023-design-movie-rental-system](https://github.com/utkarshup32/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2402-meeting-rooms-iii](https://github.com/utkarshup32/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/utkarshup32/Leetcode/tree/master/2429-design-a-food-rating-system) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/utkarshup32/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/utkarshup32/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/utkarshup32/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/utkarshup32/Leetcode/tree/master/3678-design-task-manager) |
