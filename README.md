@@ -86,6 +86,7 @@ I will put leetcode problems and solutions here
 | [0099-recover-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/utkarshup32/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/utkarshup32/Leetcode/tree/master/0222-count-complete-tree-nodes) |
@@ -111,6 +112,7 @@ I will put leetcode problems and solutions here
 | [0094-binary-tree-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/utkarshup32/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/utkarshup32/Leetcode/tree/master/0200-number-of-islands) |
@@ -153,6 +155,7 @@ I will put leetcode problems and solutions here
 | [0099-recover-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/utkarshup32/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/utkarshup32/Leetcode/tree/master/0222-count-complete-tree-nodes) |
