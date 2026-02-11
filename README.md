@@ -348,6 +348,7 @@ I will put leetcode problems and solutions here
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/utkarshup32/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/utkarshup32/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/utkarshup32/Leetcode/tree/master/3678-design-task-manager) |
+| [3721-longest-balanced-subarray-ii](https://github.com/utkarshup32/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3797-design-spreadsheet](https://github.com/utkarshup32/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/utkarshup32/Leetcode/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/utkarshup32/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -502,6 +503,7 @@ I will put leetcode problems and solutions here
 | [3637-trionic-array-i](https://github.com/utkarshup32/Leetcode/tree/master/3637-trionic-array-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/utkarshup32/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/utkarshup32/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3721-longest-balanced-subarray-ii](https://github.com/utkarshup32/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/utkarshup32/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/utkarshup32/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/utkarshup32/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -519,6 +521,7 @@ I will put leetcode problems and solutions here
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [3721-longest-balanced-subarray-ii](https://github.com/utkarshup32/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
 |  |
 | ------- |
@@ -743,10 +746,12 @@ I will put leetcode problems and solutions here
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/utkarshup32/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/utkarshup32/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/utkarshup32/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/utkarshup32/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/utkarshup32/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Segment Tree
 |  |
 | ------- |
+| [3721-longest-balanced-subarray-ii](https://github.com/utkarshup32/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/utkarshup32/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
 ## Ordered Set
 |  |
