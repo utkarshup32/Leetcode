@@ -348,6 +348,7 @@ I will put leetcode problems and solutions here
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/utkarshup32/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/utkarshup32/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3678-design-task-manager](https://github.com/utkarshup32/Leetcode/tree/master/3678-design-task-manager) |
+| [3714-longest-balanced-substring-ii](https://github.com/utkarshup32/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/utkarshup32/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3797-design-spreadsheet](https://github.com/utkarshup32/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/utkarshup32/Leetcode/tree/master/3827-implement-router) |
@@ -563,6 +564,7 @@ I will put leetcode problems and solutions here
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/utkarshup32/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/utkarshup32/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/utkarshup32/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3714-longest-balanced-substring-ii](https://github.com/utkarshup32/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3797-design-spreadsheet](https://github.com/utkarshup32/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/utkarshup32/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Design
@@ -746,6 +748,7 @@ I will put leetcode problems and solutions here
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/utkarshup32/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/utkarshup32/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/utkarshup32/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3714-longest-balanced-substring-ii](https://github.com/utkarshup32/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/utkarshup32/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/utkarshup32/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Segment Tree
