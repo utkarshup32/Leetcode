@@ -569,6 +569,7 @@ I will put leetcode problems and solutions here
 | [1636-number-of-substrings-with-only-1s](https://github.com/utkarshup32/Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/utkarshup32/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/utkarshup32/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/utkarshup32/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/utkarshup32/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/utkarshup32/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/utkarshup32/Leetcode/tree/master/2211-count-collisions-on-a-road) |
