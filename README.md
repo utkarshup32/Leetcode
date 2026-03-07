@@ -266,6 +266,7 @@ I will put leetcode problems and solutions here
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshup32/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/utkarshup32/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/utkarshup32/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/utkarshup32/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/utkarshup32/Leetcode/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/utkarshup32/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
@@ -570,6 +571,7 @@ I will put leetcode problems and solutions here
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/utkarshup32/Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/utkarshup32/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/utkarshup32/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/utkarshup32/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/utkarshup32/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/utkarshup32/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2211-count-collisions-on-a-road](https://github.com/utkarshup32/Leetcode/tree/master/2211-count-collisions-on-a-road) |
@@ -749,6 +751,7 @@ I will put leetcode problems and solutions here
 | [0867-new-21-game](https://github.com/utkarshup32/Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/utkarshup32/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshup32/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/utkarshup32/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/utkarshup32/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/utkarshup32/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/utkarshup32/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
