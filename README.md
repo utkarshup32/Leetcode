@@ -372,6 +372,7 @@ I will put leetcode problems and solutions here
 | [0222-count-complete-tree-nodes](https://github.com/utkarshup32/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/utkarshup32/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/utkarshup32/Leetcode/tree/master/0342-power-of-four) |
+| [1009-complement-of-base-10-integer](https://github.com/utkarshup32/Leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/utkarshup32/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/utkarshup32/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/utkarshup32/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
