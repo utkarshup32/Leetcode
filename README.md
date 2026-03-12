@@ -310,6 +310,7 @@ I will put leetcode problems and solutions here
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshup32/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/utkarshup32/Leetcode/tree/master/3453-separate-squares-i) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/utkarshup32/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/utkarshup32/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/utkarshup32/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/utkarshup32/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
@@ -703,6 +704,7 @@ I will put leetcode problems and solutions here
 | [2141-maximum-running-time-of-n-computers](https://github.com/utkarshup32/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/utkarshup32/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/utkarshup32/Leetcode/tree/master/2689-rearranging-fruits) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/utkarshup32/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/utkarshup32/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/utkarshup32/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sort
@@ -977,6 +979,7 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/utkarshup32/Leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/utkarshup32/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/utkarshup32/Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Trie
 |  |
@@ -990,4 +993,12 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/utkarshup32/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/utkarshup32/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/utkarshup32/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
