@@ -45,6 +45,7 @@ I will put leetcode problems and solutions here
 | [1642-water-bottles](https://github.com/utkarshup32/Leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/utkarshup32/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/utkarshup32/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarshup32/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/utkarshup32/Leetcode/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/utkarshup32/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/utkarshup32/Leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -468,6 +469,7 @@ I will put leetcode problems and solutions here
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/utkarshup32/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarshup32/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/utkarshup32/Leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/utkarshup32/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/utkarshup32/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -742,6 +744,7 @@ I will put leetcode problems and solutions here
 | [1582-special-positions-in-a-binary-matrix](https://github.com/utkarshup32/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarshup32/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/utkarshup32/Leetcode/tree/master/1895-largest-magic-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/utkarshup32/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/utkarshup32/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -772,6 +775,7 @@ I will put leetcode problems and solutions here
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/utkarshup32/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarshup32/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/utkarshup32/Leetcode/tree/master/1895-largest-magic-square) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/utkarshup32/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/utkarshup32/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -823,6 +827,7 @@ I will put leetcode problems and solutions here
 | [1018-largest-perimeter-triangle](https://github.com/utkarshup32/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/utkarshup32/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/utkarshup32/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarshup32/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/utkarshup32/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2092-find-all-people-with-secret](https://github.com/utkarshup32/Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/utkarshup32/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -883,6 +888,7 @@ I will put leetcode problems and solutions here
 | [0803-cheapest-flights-within-k-stops](https://github.com/utkarshup32/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1612-avoid-flood-in-the-city](https://github.com/utkarshup32/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarshup32/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/utkarshup32/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/utkarshup32/Leetcode/tree/master/2023-design-movie-rental-system) |
 | [2402-meeting-rooms-iii](https://github.com/utkarshup32/Leetcode/tree/master/2402-meeting-rooms-iii) |
