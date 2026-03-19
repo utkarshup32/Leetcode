@@ -500,6 +500,7 @@ I will put leetcode problems and solutions here
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/utkarshup32/Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/utkarshup32/Leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/utkarshup32/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/utkarshup32/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/utkarshup32/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/utkarshup32/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/utkarshup32/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -755,6 +756,7 @@ I will put leetcode problems and solutions here
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/utkarshup32/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/utkarshup32/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/utkarshup32/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/utkarshup32/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/utkarshup32/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/utkarshup32/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/utkarshup32/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -788,6 +790,7 @@ I will put leetcode problems and solutions here
 | [2625-increment-submatrices-by-one](https://github.com/utkarshup32/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/utkarshup32/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/utkarshup32/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/utkarshup32/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/utkarshup32/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/utkarshup32/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/utkarshup32/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
