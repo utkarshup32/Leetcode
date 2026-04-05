@@ -476,6 +476,7 @@ I will put leetcode problems and solutions here
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/utkarshup32/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarshup32/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/utkarshup32/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/utkarshup32/Leetcode/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/utkarshup32/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/utkarshup32/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -762,6 +763,7 @@ I will put leetcode problems and solutions here
 | [1727-largest-submatrix-with-rearrangements](https://github.com/utkarshup32/Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/utkarshup32/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/utkarshup32/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/utkarshup32/Leetcode/tree/master/1895-largest-magic-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/utkarshup32/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/utkarshup32/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
