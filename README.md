@@ -333,6 +333,7 @@ I will put leetcode problems and solutions here
 | [0166-fraction-to-recurring-decimal](https://github.com/utkarshup32/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/utkarshup32/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/utkarshup32/Leetcode/tree/master/0721-accounts-merge) |
+| [0874-walking-robot-simulation](https://github.com/utkarshup32/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0900-reordered-power-of-2](https://github.com/utkarshup32/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/utkarshup32/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -446,6 +447,7 @@ I will put leetcode problems and solutions here
 | [0794-swim-in-rising-water](https://github.com/utkarshup32/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/utkarshup32/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/utkarshup32/Leetcode/tree/master/0854-making-a-large-island) |
+| [0874-walking-robot-simulation](https://github.com/utkarshup32/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/utkarshup32/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/utkarshup32/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/utkarshup32/Leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -949,6 +951,7 @@ I will put leetcode problems and solutions here
 | [0412-fizz-buzz](https://github.com/utkarshup32/Leetcode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/utkarshup32/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/utkarshup32/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/utkarshup32/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/utkarshup32/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/utkarshup32/Leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/utkarshup32/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
