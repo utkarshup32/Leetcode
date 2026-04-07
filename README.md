@@ -620,6 +620,7 @@ I will put leetcode problems and solutions here
 | [0341-flatten-nested-list-iterator](https://github.com/utkarshup32/Leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0449-serialize-and-deserialize-bst](https://github.com/utkarshup32/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [2023-design-movie-rental-system](https://github.com/utkarshup32/Leetcode/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/utkarshup32/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/utkarshup32/Leetcode/tree/master/2169-simple-bank-system) |
 | [2429-design-a-food-rating-system](https://github.com/utkarshup32/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/utkarshup32/Leetcode/tree/master/3678-design-task-manager) |
@@ -955,6 +956,7 @@ I will put leetcode problems and solutions here
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/utkarshup32/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/utkarshup32/Leetcode/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/utkarshup32/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/utkarshup32/Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/utkarshup32/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/utkarshup32/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/utkarshup32/Leetcode/tree/master/2169-simple-bank-system) |
