@@ -554,6 +554,7 @@ I will put leetcode problems and solutions here
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/utkarshup32/Leetcode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/utkarshup32/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/utkarshup32/Leetcode/tree/master/3863-power-grid-maintenance) |
+| [3904-smallest-stable-index-ii](https://github.com/utkarshup32/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -827,6 +828,7 @@ I will put leetcode problems and solutions here
 | [3714-longest-balanced-substring-ii](https://github.com/utkarshup32/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/utkarshup32/Leetcode/tree/master/3721-longest-balanced-subarray-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/utkarshup32/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
+| [3904-smallest-stable-index-ii](https://github.com/utkarshup32/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Segment Tree
 |  |
 | ------- |
