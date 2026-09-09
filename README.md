@@ -67,6 +67,7 @@ I will put leetcode problems and solutions here
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/utkarshup32/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/utkarshup32/Leetcode/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/utkarshup32/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3871-count-commas-in-range-ii](https://github.com/utkarshup32/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
 | ------- |
