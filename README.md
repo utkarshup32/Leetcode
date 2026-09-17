@@ -268,6 +268,7 @@ I will put leetcode problems and solutions here
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/utkarshup32/Leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/utkarshup32/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkarshup32/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshup32/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/utkarshup32/Leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -310,6 +311,7 @@ I will put leetcode problems and solutions here
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/utkarshup32/Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1382-balance-a-binary-search-tree](https://github.com/utkarshup32/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/utkarshup32/Leetcode/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkarshup32/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/utkarshup32/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/utkarshup32/Leetcode/tree/master/1753-path-with-minimum-effort) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/utkarshup32/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -348,6 +350,7 @@ I will put leetcode problems and solutions here
 | [1264-maximum-number-of-words-you-can-type](https://github.com/utkarshup32/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/utkarshup32/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/utkarshup32/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkarshup32/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1612-avoid-flood-in-the-city](https://github.com/utkarshup32/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/utkarshup32/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/utkarshup32/Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -472,6 +475,7 @@ I will put leetcode problems and solutions here
 | [1402-count-square-submatrices-with-all-ones](https://github.com/utkarshup32/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/utkarshup32/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/utkarshup32/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkarshup32/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/utkarshup32/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/utkarshup32/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/utkarshup32/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -802,6 +806,7 @@ I will put leetcode problems and solutions here
 | ------- |
 | [0867-new-21-game](https://github.com/utkarshup32/Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/utkarshup32/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/utkarshup32/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/utkarshup32/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/utkarshup32/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/utkarshup32/Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
