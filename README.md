@@ -626,6 +626,7 @@ I will put leetcode problems and solutions here
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/utkarshup32/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/utkarshup32/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/utkarshup32/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3498-reverse-degree-of-a-string](https://github.com/utkarshup32/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3714-longest-balanced-substring-ii](https://github.com/utkarshup32/Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 | [3797-design-spreadsheet](https://github.com/utkarshup32/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/utkarshup32/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -989,6 +990,7 @@ I will put leetcode problems and solutions here
 | [2402-meeting-rooms-iii](https://github.com/utkarshup32/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/utkarshup32/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3336-water-bottles-ii](https://github.com/utkarshup32/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/utkarshup32/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/utkarshup32/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/utkarshup32/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/utkarshup32/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
