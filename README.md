@@ -62,6 +62,7 @@ I will put leetcode problems and solutions here
 | [3336-water-bottles-ii](https://github.com/utkarshup32/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/utkarshup32/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/utkarshup32/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3524-find-x-value-of-array-i](https://github.com/utkarshup32/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/utkarshup32/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3623-count-number-of-trapezoids-i](https://github.com/utkarshup32/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/utkarshup32/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -285,6 +286,7 @@ I will put leetcode problems and solutions here
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/utkarshup32/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/utkarshup32/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/utkarshup32/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3524-find-x-value-of-array-i](https://github.com/utkarshup32/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/utkarshup32/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/utkarshup32/Leetcode/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/utkarshup32/Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -535,6 +537,7 @@ I will put leetcode problems and solutions here
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/utkarshup32/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/utkarshup32/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/utkarshup32/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3524-find-x-value-of-array-i](https://github.com/utkarshup32/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/utkarshup32/Leetcode/tree/master/3546-equal-sum-grid-partition-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/utkarshup32/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/utkarshup32/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
